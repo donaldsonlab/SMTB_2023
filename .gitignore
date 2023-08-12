@@ -2,3 +2,7 @@
 *.hdf5
 imaging/code/notebooks/.ipynb_checkpoints/analyze_animal-checkpoint.ipynb
 imaging/code/notebooks/.ipynb_checkpoints/analyze_animal-checkpoint.ipynb
+imaging/code/notebooks/.ipynb_checkpoints/analyze_animal-checkpoint.ipynb
+imaging/.DS_Store
+imaging/code/.DS_Store
+imaging/data/.DS_Store

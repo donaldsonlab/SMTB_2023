@@ -17,3 +17,5 @@ imaging/.DS_Store
 .DS_Store
 imaging/code/notebooks/.ipynb_checkpoints/analyze_animal-checkpoint.ipynb
 imaging/code/notebooks/.ipynb_checkpoints/analyze_animal-checkpoint.ipynb
+imaging/code/notebooks/.ipynb_checkpoints/analyze_animal-checkpoint.ipynb
+imaging/outputs/5573_auroc.pkl
